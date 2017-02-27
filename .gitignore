@@ -1,0 +1,17 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!.gitattributes
+!LICENSE
+!README.md
+
+# But not these folders...
+!/html
+!/css
+!/js
+!/php
+!/bash
+!/mysql
+!/psql
